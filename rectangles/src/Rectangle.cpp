@@ -1,6 +1,6 @@
 //Josiah Holmes
-//CSIS 112 � Spring 2016
-//Lab 5 - Rectangle.cpp - Implementation file for class Rectangle
+//CSIS 112 - Spring 2016
+//Rectangle.cpp - Implementation file for class Rectangle
 
 
 #include "Rectangle.h"

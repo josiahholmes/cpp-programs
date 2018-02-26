@@ -1,6 +1,6 @@
 //Josiah Holmes
-//CSIS 112 � Spring 2016
-//Lab 5 - Rectangle.h - Interface file for class Rectangle
+//CSIS 112 - Spring 2016
+//Rectangle.h - Interface file for class Rectangle
 
 #include <iostream>
 #include <fstream>

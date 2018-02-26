@@ -1,6 +1,6 @@
 //Josiah Holmes
 //CSIS 112 - Spring 2016
-//Rectangles.          This lab reads an unknown pair of numbers from a file,
+//Rectangles Lab.      This lab reads an unknown pair of numbers from a file,
 //                     stores each pair of numbers in variables labeled length
 //                     and width in an array, and prints out graphical rectangles
 //                     based on the length and width provided.
